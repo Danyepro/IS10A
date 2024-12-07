@@ -1,0 +1,29 @@
+@page
+
+@{
+    // Lados del triángulo
+    double ladoA = 5; // Corresponde a 'a'
+    double ladoB = 3; // Corresponde a 'b' (base del triángulo)
+    double ladoC = 4; // Corresponde a 'c'
+
+    // Altura del triángulo correspondiente a la base 'b'
+    double alturaTriangulo = 4;
+
+    // Altura del prisma
+    double alturaPrisma = 10;
+
+    // Cálculo del perímetro del triángulo
+    double perimetro = Application.Triangulo.Perimetro(ladoA, ladoB, ladoC);
+
+    // Cálculo del área de la base triangular
+    double area = Application.Triangulo.Area(ladoB, alturaTriangulo);
+
+    // Cálculo del volumen del prisma triangular
+    double volumen = Application.PrismaTriangular.Volumen(ladoB, alturaTriangulo, alturaPrisma);
+}
+
+El perímetro de la base de un triángulo con lados de @(ladoA)cm, @(ladoB)cm y @(ladoC)cm es @(perimetro)cm
+<br />
+El área de la base de un triángulo con base de @(ladoB)cm y altura de @(alturaTriangulo)cm es @(area)cm2
+<br />
+El volumen de un prisma triangular con un área de base de @(area)cm2 y una altura de @(alturaPrisma)cm es @(volumen)cm3

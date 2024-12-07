@@ -1,0 +1,46 @@
+@page
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@functions
+{
+    double perimetro;
+    double area;
+    double volumen;
+
+    public void OnPost(double lado1, double lado2, double lado3, double alturaTriangulo, double alturaPrisma)
+    {
+        // Cálculo del perímetro del triángulo
+        perimetro = lado1 + lado2 + lado3;
+
+        // Cálculo del área del triángulo
+        area = (lado1 * alturaTriangulo) / 2;  
+
+        // Cálculo del volumen del prisma triangular
+        volumen = area * alturaPrisma;
+    }
+}
+
+<h1>
+    Calculadora de Perímetro, Área y Volumen de un Prisma Triangular
+</h1>
+
+<form method="Post">
+    Dame el primer lado del triángulo: <input type="number" name="lado1">
+    <br>
+    Dame el segundo lado del triángulo: <input type="number" name="lado2">
+    <br>
+    Dame el tercer lado del triángulo: <input type="number" name="lado3">
+    <br>
+    Dame la altura del triángulo: <input type="number" name="alturaTriangulo">
+    <br>
+    Dame la altura del prisma: <input type="number" name="alturaPrisma">
+    <br>
+    <button>Calcular</button>
+</form>
+
+<p>
+    Perímetro: @(perimetro) cm<br>
+    Área: @(area) cm²<br>
+    Volumen: @(volumen) cm³
+</p>
