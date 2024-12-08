@@ -9,19 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebUI
 build_property.RootNamespace = WebUI
-build_property.ProjectDir = c:\Users\PC FACTOR WHITE\Proyecto_IS - final\src\WebUI\
+build_property.ProjectDir = c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\WebUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\PC FACTOR WHITE\Proyecto_IS - final\src\WebUI
+build_property.MSBuildProjectDirectory = c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\WebUI
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/PC FACTOR WHITE/Proyecto_IS - final/src/WebUI/Pages/Index.cshtml]
+[c:/Users/PC FACTOR WHITE/GIT/IS10A/Proyecto_IS - final/src/WebUI/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/PC FACTOR WHITE/Proyecto_IS - final/src/WebUI/Pages/Privacy.cshtml]
+[c:/Users/PC FACTOR WHITE/GIT/IS10A/Proyecto_IS - final/src/WebUI/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

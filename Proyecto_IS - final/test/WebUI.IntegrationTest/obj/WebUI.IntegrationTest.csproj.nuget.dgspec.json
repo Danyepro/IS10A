@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\WebUI.IntegrationTest.csproj": {}
+    "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\WebUI.IntegrationTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\Application\\Application.csproj": {
+    "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\PC FACTOR WHITE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\Application\\obj\\",
+        "outputPath": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC FACTOR WHITE\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj": {
+    "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj",
+        "projectPath": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj",
         "packagesPath": "C:\\Users\\PC FACTOR WHITE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\WebUI\\obj\\",
+        "outputPath": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC FACTOR WHITE\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\Application\\Application.csproj"
+              "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\Application\\Application.csproj"
               }
             }
           }
@@ -127,14 +127,14 @@
         }
       }
     },
-    "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\WebUI.IntegrationTest.csproj": {
+    "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\WebUI.IntegrationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\WebUI.IntegrationTest.csproj",
+        "projectUniqueName": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\WebUI.IntegrationTest.csproj",
         "projectName": "WebUI.IntegrationTest",
-        "projectPath": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\WebUI.IntegrationTest.csproj",
+        "projectPath": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\WebUI.IntegrationTest.csproj",
         "packagesPath": "C:\\Users\\PC FACTOR WHITE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\obj\\",
+        "outputPath": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\test\\WebUI.IntegrationTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC FACTOR WHITE\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -149,8 +149,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj": {
-                "projectPath": "C:\\Users\\PC FACTOR WHITE\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj"
+              "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj": {
+                "projectPath": "C:\\Users\\PC FACTOR WHITE\\GIT\\IS10A\\Proyecto_IS - final\\src\\WebUI\\WebUI.csproj"
               }
             }
           }

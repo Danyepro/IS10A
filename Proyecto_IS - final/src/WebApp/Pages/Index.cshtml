@@ -18,12 +18,12 @@
     // Cálculo del área de la base triangular
     double area = Application.Triangulo.Area(ladoB, alturaTriangulo);
 
-    // Cálculo del volumen del prisma triangular
-    double volumen = Application.PrismaTriangular.Volumen(ladoB, alturaTriangulo, alturaPrisma);
+    // Cálculo del volumen del prisma triangular (usando el área de la base)
+    double volumen = Application.PrismaTriangular.Volumen(area, alturaPrisma);
 }
 
 El perímetro de la base de un triángulo con lados de @(ladoA)cm, @(ladoB)cm y @(ladoC)cm es @(perimetro)cm
 <br />
-El área de la base de un triángulo con base de @(ladoB)cm y altura de @(alturaTriangulo)cm es @(area)cm2
+El área de la base de un triángulo con base de @(ladoB)cm y altura de @(alturaTriangulo)cm es @(area)cm²
 <br />
-El volumen de un prisma triangular con un área de base de @(area)cm2 y una altura de @(alturaPrisma)cm es @(volumen)cm3
+El volumen de un prisma triangular con un área de base de @(area)cm² y una altura de @(alturaPrisma)cm es @(volumen)cm³

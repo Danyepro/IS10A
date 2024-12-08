@@ -31,3 +31,15 @@ c:\Users\PC FACTOR WHITE\Proyecto_IS - final\src\Application\bin\Debug\net8.0\Ap
 c:\Users\PC FACTOR WHITE\Proyecto_IS - final\src\Application\bin\Debug\net8.0\Application.dll
 c:\Users\PC FACTOR WHITE\Proyecto_IS - final\src\Application\bin\Debug\net8.0\Application.pdb
 c:\Users\PC FACTOR WHITE\Proyecto_IS - final\src\Application\obj\Debug\net8.0\ref\Application.dll
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\bin\Debug\net8.0\Application.deps.json
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\bin\Debug\net8.0\Application.dll
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\bin\Debug\net8.0\Application.pdb
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\Application.sourcelink.json
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\Application.dll
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\refint\Application.dll
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\Application.pdb
+c:\Users\PC FACTOR WHITE\GIT\IS10A\Proyecto_IS - final\src\Application\obj\Debug\net8.0\ref\Application.dll
